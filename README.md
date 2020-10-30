@@ -1,2 +1,2 @@
 # Mask-Detection-iSpy
-Mask Detection project for Machine learning CSCI 471
+Mask Detection project for Machine learning
